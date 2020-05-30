@@ -1,0 +1,25 @@
+{
+  "name": "scraping-nodejs",
+  "version": "1.0.0",
+  "description": "Project Web Scraping with Request, Puppeteer and Request/Cheerio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucastravagin/scraping-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucastravagin/scraping-nodejs/issues"
+  },
+  "homepage": "https://github.com/lucastravagin/scraping-nodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
